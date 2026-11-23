@@ -1,0 +1,13 @@
+# Data kompetisi tidak ikut diunggah (lihat README, bagian "Data")
+data/
+
+# Berkas sementara
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Rahasia dan lingkungan lokal
+.env
+kaggle.json
+.vscode/
